@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hoiid
+- 👋 Hi, I’m @Mahmood
 - 👀 I’m interested in engineering be it hardware or software
 - 🌱 I’m currently learning C and EMC (not very compatible I know)
 - 💞️ I’m looking to collaborate on challenging projects
